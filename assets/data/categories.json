@@ -1,107 +1,121 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "duschwannen",
+        "name": "Duschwannen",
+        "slug": "duschwannen",
+        "productCategory": "Duschwannen",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "duschkabinen",
+        "name": "Duschkabinen",
+        "slug": "duschkabinen",
+        "productCategory": "Duschkabinen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "eckduschen",
+        "name": "Eckduschen",
+        "slug": "eckduschen",
+        "productCategory": "Eckduschen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "duschtüren",
+        "name": "Duschtüren",
+        "slug": "duschturen",
+        "productCategory": "Duschtüren",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "walk-in duschen",
+        "name": "Walk-in Duschen",
+        "slug": "walk-in-duschen",
+        "productCategory": "Walk-in Duschen",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "komplettduschen",
+        "name": "Komplettduschen",
+        "slug": "komplettduschen",
+        "productCategory": "Komplettduschen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "rundduschen",
+        "name": "Rundduschen",
+        "slug": "rundduschen",
+        "productCategory": "Rundduschen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "duschdichtungen",
+        "name": "Duschdichtungen",
+        "slug": "duschdichtungen",
+        "productCategory": "Duschdichtungen",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "duschwände",
+        "name": "Duschwände",
+        "slug": "duschwande",
+        "productCategory": "Duschwände",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "begehbare duschen",
+        "name": "Begehbare Duschen",
+        "slug": "begehbare-duschen",
+        "productCategory": "Begehbare Duschen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "duschboards",
+        "name": "Duschboards",
+        "slug": "duschboards",
+        "productCategory": "Duschboards",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "bodengleiche duschwannen",
+        "name": "Bodengleiche Duschwannen",
+        "slug": "bodengleiche-duschwannen",
+        "productCategory": "Bodengleiche Duschwannen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "duschrinnen",
+        "name": "Duschrinnen",
+        "slug": "duschrinnen",
+        "productCategory": "Duschrinnen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "dusch-rinnenabläufe",
+        "name": "Dusch-Rinnenabläufe",
+        "slug": "dusch-rinnenablaufe",
+        "productCategory": "Dusch-Rinnenabläufe",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "dusch-wandabläufe",
+        "name": "Dusch-Wandabläufe",
+        "slug": "dusch-wandablaufe",
+        "productCategory": "Dusch-Wandabläufe",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für duschen",
+        "name": "Zubehör für Duschen",
+        "slug": "zubehor-fur-duschen",
+        "productCategory": "Zubehör für Duschen",
+        "subCategories": []
+    },
+    {
+        "key": "duschrückwände",
+        "name": "Duschrückwände",
+        "slug": "duschruckwande",
+        "productCategory": "Duschrückwände",
         "subCategories": []
     }
 ]
