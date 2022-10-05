@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "duschabenteuer.de",
+    "hostname": "https://www.duschabenteuer.de/",
+    "email": "duschabenteuer.desurrealnetworks.io",
+    "organization": "duschabenteuer.de",
+    "logoText": "Duschabenteuer.de",
+    "title": "Duschen",
+    "subline": "Der Online Shop f\u00fcr Duschen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5776786",
+        "7050404",
+        "2448744",
+        "9980186",
+        "9330366",
+        "7679566"
+    ],
+    "winnerProducts": [
+        "9980152",
+        "6666341",
+        "2451342"
+    ],
+    "featuredCategories": [
+        "Duscht\u00fcren",
+        "Duschw\u00e4nde",
+        "Duschwannen",
+        "Duschkabinen",
+        "Dusch-Wandabl\u00e4ufe",
+        "Bodengleiche Duschwannen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Duschen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Duschhaus ist ein Fachgesch\u00e4ft f\u00fcr Duschen. Hier finden Sie alles, was Sie f\u00fcr Ihr Badezimmer brauchen. Vom Duschkopf \u00fcber die Duschwanne bis hin zum Duschvorhang. Wir beraten Sie gerne und finden die perfekte L\u00f6sung f\u00fcr Ihr Badezimmer.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Duschen-Shop: Alles f\u00fcr Ihr perfektes Duscherlebnis!",
+            "metaDescription": "Duschen-Shop: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen \u00fcber Duschwannen bis hin zu Duscharmaturen und Duschzubeh\u00f6r.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Duschen: Die beste Erfrischung nach einem anstrengenden Tag!",
+                    "text": "Duschen ist eine der wichtigsten Aktivit\u00e4ten, die wir jeden Tag durchf\u00fchren. Es ist eine M\u00f6glichkeit, uns zu reinigen und zu entspannen. Duschen kann auch eine gute Gelegenheit sein, um unsere Gedanken zu sortieren und uns auf den Tag vorzubereiten.\n\nEs gibt verschiedene Arten von Duschen, die wir w\u00e4hlen k\u00f6nnen. Die meisten Menschen entscheiden sich f\u00fcr eine normale Dusche, bei der sie einfach Wasser \u00fcber ihren K\u00f6rper laufen lassen. Andere Leute m\u00f6gen es, Duschgels oder Seifen zu verwenden, um sich zu reinigen. Es gibt auch Duschen, die speziell f\u00fcr die Haarw\u00e4sche entwickelt wurden.\n\nEgal, welche Art von Dusche Sie bevorzugen, es ist wichtig, dass Sie einige wichtige Dinge beachten, damit Sie die bestm\u00f6gliche Erfahrung machen. Zuerst einmal sollten Sie sicherstellen, dass das Wasser, das Sie verwenden, nicht zu hei\u00df ist. Wenn das Wasser zu hei\u00df ist, kann es Ihre Haut reizen und Sie k\u00f6nnen sich verbrennen. Stellen Sie also sicher, dass das Wasser eine angenehme Temperatur hat.\n\nZweitens ist es wichtig, dass Sie Ihre Dusche nicht zu lange dauern lassen. Duschen sollten nicht l\u00e4nger als 10-15 Minuten dauern. Auch wenn Sie sich sehr entspannen m\u00f6chten, ist es wichtig, dass Sie nicht zu lange duschen, da dies I"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Duschen Shop: Alles f\u00fcr Ihr Badezimmer",
+            "metaDescription": "Duschen Shop - Hier findest du alles rund um das Thema Duschen!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Duschen-Hersteller: Die besten Marken auf einen Blick",
+            "metaDescription": "Duschen-Hersteller bietet eine gro\u00dfe Auswahl an Duschen f\u00fcr jeden Bedarf. Finden Sie die perfekte Dusche f\u00fcr Ihr Zuhause oder Ihr Unternehmen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Duschen: $PRODUKT f\u00fcr eine perfekte Reinigung",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr Badezimmer. $KATEGORIE bietet Ihnen alles, was Sie f\u00fcr Ihr t\u00e4gliches Ritual ben\u00f6tigen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Duschen: $KATEGORIE f\u00fcr dein Zuhause",
+        "defaultMetaDescription": "$KATEGORIE Duschen - Finde die perfekte Dusche f\u00fcr dein Zuhause. Wir haben eine gro\u00dfe Auswahl an Duschen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Duschen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Duschen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Duschen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
