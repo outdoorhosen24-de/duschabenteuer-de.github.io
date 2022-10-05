@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kaldewei", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kaldewei-stahl-duschwanne-sanidusch-90-cm-x-75-cm-x-14-cm-weisz-kaldewei-7243843-1.jpg":"\u002Fassets\u002Fimages\u002Fkaldewei-stahl-duschwanne-sanidusch-90-cm-x-75-cm-x-14-cm-weisz-kaldewei-7243843-1.webp"}}],fetch:{},mutations:void 0});

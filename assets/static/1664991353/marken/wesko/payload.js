@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/wesko", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/bodenebenes-befliesbares-duschelement-indigno-r-mit-duschrinne-90-cm-x-90-cm-wesko-7661333-1.jpg":"\u002Fassets\u002Fimages\u002Fbodenebenes-befliesbares-duschelement-indigno-r-mit-duschrinne-90-cm-x-90-cm-wesko-7661333-1.webp"}}],fetch:{},mutations:void 0});

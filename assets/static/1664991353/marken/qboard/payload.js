@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/qboard", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/qboard-duschelement-900-mm-x-900-mm-qboard-6495444-1.jpg":"\u002Fassets\u002Fimages\u002Fqboard-duschelement-900-mm-x-900-mm-qboard-6495444-1.webp"}}],fetch:{},mutations:void 0});
