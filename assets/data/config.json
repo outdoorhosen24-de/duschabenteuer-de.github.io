@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "duschabenteuer.de",
     "hostname": "https://www.duschabenteuer.de/",
     "email": "duschabenteuer.desurrealnetworks.io",
     "organization": "duschabenteuer.de",
     "logoText": "Duschabenteuer.de",
     "title": "Duschen",
-    "subline": "Der Online Shop f\u00fcr Duschen",
+    "subline": "Der Online Shop für Duschen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,11 +28,11 @@
         "2451342"
     ],
     "featuredCategories": [
-        "Duscht\u00fcren",
-        "Duschw\u00e4nde",
+        "Duschtüren",
+        "Duschwände",
         "Duschwannen",
         "Duschkabinen",
-        "Dusch-Wandabl\u00e4ufe",
+        "Dusch-Wandabläufe",
         "Bodengleiche Duschwannen"
     ],
     "socialMediaAccounts": [],
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Duschen",
-        "featureText": "Das Duschhaus ist ein Fachgesch\u00e4ft f\u00fcr Duschen. Hier finden Sie alles, was Sie f\u00fcr Ihr Badezimmer brauchen. Vom Duschkopf \u00fcber die Duschwanne bis hin zum Duschvorhang. Wir beraten Sie gerne und finden die perfekte L\u00f6sung f\u00fcr Ihr Badezimmer.",
+        "featureText": "Das Duschhaus ist ein Fachgeschäft für Duschen. Hier finden Sie alles, was Sie für Ihr Badezimmer brauchen. Vom Duschkopf über die Duschwanne bis hin zum Duschvorhang. Wir beraten Sie gerne und finden die perfekte Lösung für Ihr Badezimmer.",
         "index": {
-            "title": "Duschen-Shop: Alles f\u00fcr Ihr perfektes Duscherlebnis!",
-            "metaDescription": "Duschen-Shop: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen \u00fcber Duschwannen bis hin zu Duscharmaturen und Duschzubeh\u00f6r.",
+            "title": "Duschen-Shop: Alles für Ihr perfektes Duscherlebnis!",
+            "metaDescription": "Duschen-Shop: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duscharmaturen und Duschzubehör.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Duschen: Die beste Erfrischung nach einem anstrengenden Tag!",
-                    "text": "Duschen ist eine der wichtigsten Aktivit\u00e4ten, die wir jeden Tag durchf\u00fchren. Es ist eine M\u00f6glichkeit, uns zu reinigen und zu entspannen. Duschen kann auch eine gute Gelegenheit sein, um unsere Gedanken zu sortieren und uns auf den Tag vorzubereiten.\n\nEs gibt verschiedene Arten von Duschen, die wir w\u00e4hlen k\u00f6nnen. Die meisten Menschen entscheiden sich f\u00fcr eine normale Dusche, bei der sie einfach Wasser \u00fcber ihren K\u00f6rper laufen lassen. Andere Leute m\u00f6gen es, Duschgels oder Seifen zu verwenden, um sich zu reinigen. Es gibt auch Duschen, die speziell f\u00fcr die Haarw\u00e4sche entwickelt wurden.\n\nEgal, welche Art von Dusche Sie bevorzugen, es ist wichtig, dass Sie einige wichtige Dinge beachten, damit Sie die bestm\u00f6gliche Erfahrung machen. Zuerst einmal sollten Sie sicherstellen, dass das Wasser, das Sie verwenden, nicht zu hei\u00df ist. Wenn das Wasser zu hei\u00df ist, kann es Ihre Haut reizen und Sie k\u00f6nnen sich verbrennen. Stellen Sie also sicher, dass das Wasser eine angenehme Temperatur hat.\n\nZweitens ist es wichtig, dass Sie Ihre Dusche nicht zu lange dauern lassen. Duschen sollten nicht l\u00e4nger als 10-15 Minuten dauern. Auch wenn Sie sich sehr entspannen m\u00f6chten, ist es wichtig, dass Sie nicht zu lange duschen, da dies I"
+                    "text": "Duschen ist eine der wichtigsten Aktivitäten, die wir jeden Tag durchführen. Es ist eine Möglichkeit, uns zu reinigen und zu entspannen. Duschen kann auch eine gute Gelegenheit sein, um unsere Gedanken zu sortieren und uns auf den Tag vorzubereiten.\n\nEs gibt verschiedene Arten von Duschen, die wir wählen können. Die meisten Menschen entscheiden sich für eine normale Dusche, bei der sie einfach Wasser über ihren Körper laufen lassen. Andere Leute mögen es, Duschgels oder Seifen zu verwenden, um sich zu reinigen. Es gibt auch Duschen, die speziell für die Haarwäsche entwickelt wurden.\n\nEgal, welche Art von Dusche Sie bevorzugen, es ist wichtig, dass Sie einige wichtige Dinge beachten, damit Sie die bestmögliche Erfahrung machen. Zuerst einmal sollten Sie sicherstellen, dass das Wasser, das Sie verwenden, nicht zu heiß ist. Wenn das Wasser zu heiß ist, kann es Ihre Haut reizen und Sie können sich verbrennen. Stellen Sie also sicher, dass das Wasser eine angenehme Temperatur hat.\n\nZweitens ist es wichtig, dass Sie Ihre Dusche nicht zu lange dauern lassen. Duschen sollten nicht länger als 10-15 Minuten dauern. Auch wenn Sie sich sehr entspannen möchten, ist es wichtig, dass Sie nicht zu lange duschen, da dies I"
                 }
             ]
         },
         "shop": {
-            "title": "Duschen Shop: Alles f\u00fcr Ihr Badezimmer",
+            "title": "Duschen Shop: Alles für Ihr Badezimmer",
             "metaDescription": "Duschen Shop - Hier findest du alles rund um das Thema Duschen!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Duschen-Hersteller: Die besten Marken auf einen Blick",
-            "metaDescription": "Duschen-Hersteller bietet eine gro\u00dfe Auswahl an Duschen f\u00fcr jeden Bedarf. Finden Sie die perfekte Dusche f\u00fcr Ihr Zuhause oder Ihr Unternehmen.",
+            "metaDescription": "Duschen-Hersteller bietet eine große Auswahl an Duschen für jeden Bedarf. Finden Sie die perfekte Dusche für Ihr Zuhause oder Ihr Unternehmen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Duschen: $PRODUKT f\u00fcr eine perfekte Reinigung",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr Badezimmer. $KATEGORIE bietet Ihnen alles, was Sie f\u00fcr Ihr t\u00e4gliches Ritual ben\u00f6tigen.",
+        "defaultTitle": "Duschen: $PRODUKT für eine perfekte Reinigung",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Badezimmer. $KATEGORIE bietet Ihnen alles, was Sie für Ihr tägliches Ritual benötigen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Duschen: $KATEGORIE f\u00fcr dein Zuhause",
-        "defaultMetaDescription": "$KATEGORIE Duschen - Finde die perfekte Dusche f\u00fcr dein Zuhause. Wir haben eine gro\u00dfe Auswahl an Duschen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+        "defaultTitle": "Duschen: $KATEGORIE für dein Zuhause",
+        "defaultMetaDescription": "$KATEGORIE Duschen - Finde die perfekte Dusche für dein Zuhause. Wir haben eine große Auswahl an Duschen in verschiedenen Stilen und Größen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
+        "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
