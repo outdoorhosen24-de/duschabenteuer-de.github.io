@@ -51,12 +51,15 @@
             "title": "Duschen-Shop: Alles für Ihr perfektes Duscherlebnis!",
             "metaDescription": "Duschen-Shop: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duscharmaturen und Duschzubehör.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Duschen: Die beste Erfrischung nach einem anstrengenden Tag!",
-                    "text": "Duschen ist eine der wichtigsten Aktivitäten, die wir jeden Tag durchführen. Es ist eine Möglichkeit, uns zu reinigen und zu entspannen. Duschen kann auch eine gute Gelegenheit sein, um unsere Gedanken zu sortieren und uns auf den Tag vorzubereiten.\n\nEs gibt verschiedene Arten von Duschen, die wir wählen können. Die meisten Menschen entscheiden sich für eine normale Dusche, bei der sie einfach Wasser über ihren Körper laufen lassen. Andere Leute mögen es, Duschgels oder Seifen zu verwenden, um sich zu reinigen. Es gibt auch Duschen, die speziell für die Haarwäsche entwickelt wurden.\n\nEgal, welche Art von Dusche Sie bevorzugen, es ist wichtig, dass Sie einige wichtige Dinge beachten, damit Sie die bestmögliche Erfahrung machen. Zuerst einmal sollten Sie sicherstellen, dass das Wasser, das Sie verwenden, nicht zu heiß ist. Wenn das Wasser zu heiß ist, kann es Ihre Haut reizen und Sie können sich verbrennen. Stellen Sie also sicher, dass das Wasser eine angenehme Temperatur hat.\n\nZweitens ist es wichtig, dass Sie Ihre Dusche nicht zu lange dauern lassen. Duschen sollten nicht länger als 10-15 Minuten dauern. Auch wenn Sie sich sehr entspannen möchten, ist es wichtig, dass Sie nicht zu lange duschen, da dies I"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Duschen: Die beste Erfrischung nach einem anstrengenden Tag!",
+                        "text": "Duschen ist eine der wichtigsten Aktivitäten, die wir jeden Tag durchführen. Es ist eine Möglichkeit, uns zu reinigen und zu entspannen. Duschen kann auch eine gute Gelegenheit sein, um unsere Gedanken zu sortieren und uns auf den Tag vorzubereiten.\n\nEs gibt verschiedene Arten von Duschen, die wir wählen können. Die meisten Menschen entscheiden sich für eine normale Dusche, bei der sie einfach Wasser über ihren Körper laufen lassen. Andere Leute mögen es, Duschgels oder Seifen zu verwenden, um sich zu reinigen. Es gibt auch Duschen, die speziell für die Haarwäsche entwickelt wurden.\n\nEgal, welche Art von Dusche Sie bevorzugen, es ist wichtig, dass Sie einige wichtige Dinge beachten, damit Sie die bestmögliche Erfahrung machen. Zuerst einmal sollten Sie sicherstellen, dass das Wasser, das Sie verwenden, nicht zu heiß ist. Wenn das Wasser zu heiß ist, kann es Ihre Haut reizen und Sie können sich verbrennen. Stellen Sie also sicher, dass das Wasser eine angenehme Temperatur hat.\n\nZweitens ist es wichtig, dass Sie Ihre Dusche nicht zu lange dauern lassen. Duschen sollten nicht länger als 10-15 Minuten dauern. Auch wenn Sie sich sehr entspannen möchten, ist es wichtig, dass Sie nicht zu lange duschen, da dies I"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Duschen Shop: Alles für Ihr Badezimmer",
