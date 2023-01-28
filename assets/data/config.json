@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "duschabenteuer.de",
     "hostname": "https://www.duschabenteuer.de/",
     "email": "duschabenteuer.de@surrealnetworks.io",
     "organization": "duschabenteuer.de",
     "logoText": "Duschabenteuer.de",
-    "title": "Duschen",
-    "subline": "Der Online Shop für Duschen",
+    "title": "Alles für die Dusche",
+    "subline": "Der Online Shop für tolle Duschen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Duschen",
-        "featureText": "Das Duschhaus ist ein Fachgeschäft für Duschen. Hier finden Sie alles, was Sie für Ihr Badezimmer brauchen. Vom Duschkopf über die Duschwanne bis hin zum Duschvorhang. Wir beraten Sie gerne und finden die perfekte Lösung für Ihr Badezimmer.",
+        "featureText": "Duschabenteuer.de ist ein Online-Shop, der sich auf Duschen spezialisiert hat. Hier finden Sie alles, was Sie für Ihr Badezimmer benötigen: Duschwannen, Duschkabinen, Duschtüren, Komplettduschen, Duschabtrennungen, Duschboards, Duschrinnen sowie Zubehör für Duschen. Bestellen Sie die Produkte zu günstigen Preisen direkt zu Ihnen nach Hause. Schnelle Lieferung und Bestpreis Garantie. Viel Spaß beim Stöbern und Duschen wünscht Ihnen ihr Duschabenteuer-Team.",
         "index": {
-            "title": "Duschen-Shop: Alles für Ihr perfektes Duscherlebnis!",
-            "metaDescription": "Duschen-Shop: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duscharmaturen und Duschzubehör.",
+            "title": "Alles für Ihr perfektes Duscherlebnis! | Shop",
+            "metaDescription": "Duschabenteuer: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duschboards und Duschzubehör.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Duschen Shop: Alles für Ihr Badezimmer",
-            "metaDescription": "Duschen Shop - Hier findest du alles rund um das Thema Duschen!",
+            "title": "Alles für die perfekte Dusche | Duschabenteuer Shop",
+            "metaDescription": "Alles, was du für ein perfektes Duscherlebnis brauchst, findest du in unserem Duschabenteuer-Shop. Günstige Preise und kurze Lieferzeiten.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Duschen-Hersteller: Die besten Marken auf einen Blick",
-            "metaDescription": "Duschen-Hersteller bietet eine große Auswahl an Duschen für jeden Bedarf. Finden Sie die perfekte Dusche für Ihr Zuhause oder Ihr Unternehmen.",
+            "title": "Die besten Hersteller für Duschen",
+            "metaDescription": "Hier werden alle Hersteller von Duschen und Duschzubehör mit ihren Produkten vorgestellt. Es werden ausschließlich namhafte Hersteller aufgeführt.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Duschen: $PRODUKT für eine perfekte Reinigung",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Badezimmer. $KATEGORIE bietet Ihnen alles, was Sie für Ihr tägliches Ritual benötigen.",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Badezimmer. Top Produkt aus der Kategorie $KATEGORIE. Günstig bestellen.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Duschen: $KATEGORIE für dein Zuhause",
-        "defaultMetaDescription": "$KATEGORIE Duschen - Finde die perfekte Dusche für dein Zuhause. Wir haben eine große Auswahl an Duschen in verschiedenen Stilen und Größen.",
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "$KATEGORIE: Shoppe die besten Produkte zum besten Preis auf Duschabenteur.de. Wir haben die besten Produkte in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,7 +116,7 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
+        "defaultTitle": "$HERSTELLER | Duschabenteuer.de",
         "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
         "defaultRobots": "index, follow",
         "brands": [
