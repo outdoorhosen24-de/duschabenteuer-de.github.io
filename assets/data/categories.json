@@ -23,7 +23,7 @@
     {
         "key": "duschtüren",
         "name": "Duschtüren",
-        "slug": "duschturen",
+        "slug": "duschtueren",
         "productCategory": "Duschtüren",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "duschwände",
         "name": "Duschwände",
-        "slug": "duschwande",
+        "slug": "duschwaende",
         "productCategory": "Duschwände",
         "subCategories": []
     },
@@ -93,28 +93,28 @@
     {
         "key": "dusch-rinnenabläufe",
         "name": "Dusch-Rinnenabläufe",
-        "slug": "dusch-rinnenablaufe",
+        "slug": "dusch-rinnenablaeufe",
         "productCategory": "Dusch-Rinnenabläufe",
         "subCategories": []
     },
     {
         "key": "dusch-wandabläufe",
         "name": "Dusch-Wandabläufe",
-        "slug": "dusch-wandablaufe",
+        "slug": "dusch-wandablaeufe",
         "productCategory": "Dusch-Wandabläufe",
         "subCategories": []
     },
     {
         "key": "zubehör für duschen",
         "name": "Zubehör für Duschen",
-        "slug": "zubehor-fur-duschen",
+        "slug": "zubehoer-fuer-duschen",
         "productCategory": "Zubehör für Duschen",
         "subCategories": []
     },
     {
         "key": "duschrückwände",
         "name": "Duschrückwände",
-        "slug": "duschruckwande",
+        "slug": "duschrueckwaende",
         "productCategory": "Duschrückwände",
         "subCategories": []
     }
