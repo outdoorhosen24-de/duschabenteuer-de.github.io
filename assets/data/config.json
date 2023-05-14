@@ -1,268 +1,275 @@
 {
-  "configIsReady": true,
-  "domain": "duschabenteuer.de",
-  "hostname": "https://www.duschabenteuer.de/",
-  "email": "duschabenteuer.de@surrealnetworks.io",
-  "organization": "duschabenteuer.de",
-  "logoText": "Duschabenteuer.de",
-  "title": "Alles für die Dusche",
-  "subline": "Der Online Shop für tolle Duschen",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5776786",
-    "7050404",
-    "2448744",
-    "9980186",
-    "9330366",
-    "7679566"
-  ],
-  "winnerProducts": [
-    "9980152",
-    "6666341",
-    "2451342"
-  ],
-  "featuredCategories": [
-    "Duschtüren",
-    "Duschwände",
-    "Duschwannen",
-    "Duschkabinen",
-    "Dusch-Wandabläufe",
-    "Bodengleiche Duschwannen"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Duschen",
-    "featureText": "Duschabenteuer.de ist ein Online-Shop, der sich auf Duschen spezialisiert hat. Hier finden Sie alles, was Sie für Ihr Badezimmer benötigen: Duschwannen, Duschkabinen, Duschtüren, Komplettduschen, Duschabtrennungen, Duschboards, Duschrinnen sowie Zubehör für Duschen. Bestellen Sie die Produkte zu günstigen Preisen direkt zu Ihnen nach Hause. Schnelle Lieferung und Bestpreis Garantie. Viel Spaß beim Stöbern und Duschen wünscht Ihnen ihr Duschabenteuer-Team.",
-    "index": {
-      "title": "Alles für Ihr perfektes Duscherlebnis! | Shop",
-      "metaDescription": "Duschabenteuer: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duschboards und Duschzubehör.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Duschabenteuer",
-            "text": "Herzlich willkommen bei Duschabenteuer, Ihrem Online-Shop für hochwertige Duschen. Bei uns finden Sie eine große Auswahl an Duschwannen, Duschkabinen, Eckduschen, Duschtüren, Walk-in Duschen, Komplettduschen, Rundduschen, Duschdichtungen, Duschwände, Begehbare Duschen, Duschboards, Bodengleiche Duschwannen, Duschrinnen, Dusch-Rinnenabläufe, Dusch-Wandabläufe, Zubehör für Duschen und Duschrückwände. Wir bieten Ihnen eine breite Palette an Produkten, die Ihr Badezimmer in eine Wohlfühloase verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und stressfreie Shopping-Erfahrung zu bieten. Deshalb haben wir eine benutzerfreundliche Website entwickelt, auf der Sie Ihre Wunschprodukte schnell und einfach finden können. Unsere Kategorien sind übersichtlich organisiert, damit Sie sich schnell zurechtfinden und direkt zu den Produkten gelangen, die Sie interessieren.Wir legen großen Wert auf Qualität und bieten Ihnen nur Produkte von renommierten Herstellern an. Unsere Duschen werden nach höchsten Standards gefertigt und sind langlebig und robust. Darüber hinaus sind sie stilvoll und passen perfekt in jedes moderne Badezimmer.Wir sind uns sicher, dass Sie bei uns die perfekte Dusche für Ihr Zuhause finden werden. Sollten Sie Fragen haben, stehen wir Ihnen jederzeit zur Verfügung. Kontaktieren Sie uns einfach über unser Kontaktformular oder rufen Sie uns an. Wir freuen uns darauf, Ihnen bei der Gestaltung Ihres Traumbadezimmers zu helfen."
-          },
-          {
-            "title": "Duschwannen",
-            "text": "Entdecke die Vielfalt an <a href=\"/kategorie/duschwannen/\" title=\"Duschwannen\">Duschwannen</a> auf Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Materialien, um jedem Bedarf gerecht zu werden. Ob du eine Eckdusche, eine runde Duschwanne oder eine Walk-in-Dusche bevorzugst, wir haben das Richtige für dich. Unsere Duschwannen sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Überzeuge dich selbst und entdecke jetzt unsere Duschwannen-Kollektion."
-          },
-          {
-            "title": "Duschkabinen",
-            "text": "Erlebe das ultimative Duscherlebnis mit einer Duschkabine von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Ob du eine Eckdusche, eine runde Duschkabine oder eine Walk-in-Dusche bevorzugst, wir haben das Richtige für dich. Unsere <a href=\"/kategorie/duschkabinen/\" title=\"Duschkabinen\">Duschkabinen</a> sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Überzeuge dich selbst und entdecke jetzt unsere Duschkabinen-Kollektion."
-          },
-          {
-            "title": "Eckduschen",
-            "text": "Optimiere deinen Duschbereich mit einer Eckdusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/eckduschen/\" title=\"Eckduschen\">Eckduschen</a> sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Spare Platz in deinem Bad und nutze die Ecken optimal aus. Überzeuge dich selbst und entdecke jetzt unsere Eckduschen-Kollektion."
-          },
-          {
-            "title": "Duschtüren",
-            "text": "Erlebe die perfekte Duschlösung mit den <a href=\"/kategorie/duschtueren/\" title=\"Duschtüren\">Duschtüren</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschtüren bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschtüren-Kollektion und finde die perfekte Tür für deine Dusche."
-          },
-          {
-            "title": "Walk-in Duschen",
-            "text": "Erlebe das ultimative Duscherlebnis mit einer Walk-in Dusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/walk-in-duschen/\" title=\"Walk-in Duschen\">Walk-in Duschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Walk-in Duschen-Kollektion und erlebe das Gefühl von Freiheit beim Duschen."
-          },
-          {
-            "title": "Komplettduschen",
-            "text": "Erneuere dein Badezimmer mit einer Komplettdusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/komplettduschen/\" title=\"Komplettduschen\">Komplettduschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Komplettduschen-Kollektion und verleihe deinem Badezimmer das gewisse Extra."
-          },
-          {
-            "title": "Rundduschen",
-            "text": "Erlebe das ultimative Duscherlebnis mit einer Runddusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/rundduschen/\" title=\"Rundduschen\">Rundduschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Rundduschen-Kollektion und erlebe ein neues Niveau des Duschvergnügens."
-          },
-          {
-            "title": "Duschdichtungen",
-            "text": "Vermeide undichte Stellen in deiner Dusche mit den <a href=\"/kategorie/duschdichtungen/\" title=\"Duschdichtungen\">Duschdichtungen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Duschdichtungen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschdichtungen-Kollektion und schütze deine Dusche vor undichten Stellen."
-          },
-          {
-            "title": "Duschwände",
-            "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschwaende/\" title=\"Duschwände\">Duschwände</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschwände bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschwände-Kollektion und verleihe deiner Dusche ein neues Aussehen."
-          },
-          {
-            "title": "Begehbare Duschen",
-            "text": "Erlebe ein neues Niveau des Duschvergnügens mit einer begehbaren Dusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere begehbaren Duschen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere begehbaren Duschen-Kollektion und erlebe die Freiheit beim Duschen."
-          },
-          {
-            "title": "Duschboards",
-            "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschboards/\" title=\"Duschboards\">Duschboards</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschboards bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschboards-Kollektion und verleihe deiner Dusche das gewisse Extra."
-          },
-          {
-            "title": "Bodengleiche Duschwannen",
-            "text": "Erneuere dein Badezimmer mit einer bodengleichen Duschwanne von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere bodengleichen Duschwannen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere bodengleichen Duschwannen-Kollektion und verleihe deinem Badezimmer das gewisse Extra."
-          },
-          {
-            "title": "Duschrinnen",
-            "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschrinnen/\" title=\"Duschrinnen\">Duschrinnen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschrinnen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschrinnen-Kollektion und verleihe deiner Dusche das gewisse Extra."
-          },
-          {
-            "title": "Dusch-Rinnenabläufe",
-            "text": "Verhindere Überschwemmungen in deiner Dusche mit den <a href=\"/kategorie/dusch-rinnenablaeufe/\" title=\"Dusch-Rinnenabläufe\">Dusch-Rinnenabläufe</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Dusch-Rinnenabläufe bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Dusch-Rinnenabläufe-Kollektion und schütze deine Dusche vor Überschwemmungen."
-          },
-          {
-            "title": "Dusch-Wandabläufe",
-            "text": "Verhindere Überschwemmungen in deiner Dusche mit den <a href=\"/kategorie/dusch-wandablaeufe/\" title=\"Dusch-Wandabläufe\">Dusch-Wandabläufe</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Dusch-Wandabläufe bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Dusch-Wandabläufe-Kollektion und schütze deine Dusche vor Überschwemmungen."
-          },
-          {
-            "title": "Zubehör für Duschen",
-            "text": "Vervollständige dein Duscherlebnis mit dem <a href=\"/kategorie/zubehoer-fuer-duschen/\" title=\"Zubehör für Duschen\">Zubehör für Duschen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Artikeln, um jedem Bedarf gerecht zu werden. Unser Zubehör für Duschen besteht aus hochwertigen Materialien und garantiert eine lange Haltbarkeit. Entdecke jetzt unser Zubehör für Duschen-Sortiment und verleihe deiner Dusche das gewisse Extra."
-          },
-          {
-            "title": "Duschrückwände",
-            "text": "Schütze deine Wände vor Feuchtigkeit und optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschrueckwaende/\" title=\"Duschrückwände\">Duschrückwände</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschrückwände bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschrückwände-Kollektion und schütze deine Wände vor Feuchtigkeit."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "duschabenteuer.de",
+    "hostname": "https://www.duschabenteuer.de/",
+    "email": "duschabenteuer.de@surrealnetworks.io",
+    "organization": "duschabenteuer.de",
+    "logoText": "Duschabenteuer.de",
+    "title": "Alles für die Dusche",
+    "subline": "Der Online Shop für tolle Duschen",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5776786",
+        "7050404",
+        "2448744",
+        "9980186",
+        "9330366",
+        "7679566"
+    ],
+    "winnerProducts": [
+        "9980152",
+        "6666341",
+        "2451342"
+    ],
+    "featuredCategories": [
+        "Duschtüren",
+        "Duschwände",
+        "Duschwannen",
+        "Duschkabinen",
+        "Dusch-Wandabläufe",
+        "Bodengleiche Duschwannen"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Duschen",
+        "featureText": "Duschabenteuer.de ist ein Online-Shop, der sich auf Duschen spezialisiert hat. Hier finden Sie alles, was Sie für Ihr Badezimmer benötigen: Duschwannen, Duschkabinen, Duschtüren, Komplettduschen, Duschabtrennungen, Duschboards, Duschrinnen sowie Zubehör für Duschen. Bestellen Sie die Produkte zu günstigen Preisen direkt zu Ihnen nach Hause. Schnelle Lieferung und Bestpreis Garantie. Viel Spaß beim Stöbern und Duschen wünscht Ihnen ihr Duschabenteuer-Team.",
+        "index": {
+            "title": "Alles für Ihr perfektes Duscherlebnis! | Shop",
+            "metaDescription": "Duschabenteuer: Hier findest du alles rund um das Thema Duschen. Von Duschkabinen über Duschwannen bis hin zu Duschboards und Duschzubehör.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Duschabenteuer",
+                        "text": "Herzlich willkommen bei Duschabenteuer, Ihrem Online-Shop für hochwertige Duschen. Bei uns finden Sie eine große Auswahl an Duschwannen, Duschkabinen, Eckduschen, Duschtüren, Walk-in Duschen, Komplettduschen, Rundduschen, Duschdichtungen, Duschwände, Begehbare Duschen, Duschboards, Bodengleiche Duschwannen, Duschrinnen, Dusch-Rinnenabläufe, Dusch-Wandabläufe, Zubehör für Duschen und Duschrückwände. Wir bieten Ihnen eine breite Palette an Produkten, die Ihr Badezimmer in eine Wohlfühloase verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und stressfreie Shopping-Erfahrung zu bieten. Deshalb haben wir eine benutzerfreundliche Website entwickelt, auf der Sie Ihre Wunschprodukte schnell und einfach finden können. Unsere Kategorien sind übersichtlich organisiert, damit Sie sich schnell zurechtfinden und direkt zu den Produkten gelangen, die Sie interessieren.Wir legen großen Wert auf Qualität und bieten Ihnen nur Produkte von renommierten Herstellern an. Unsere Duschen werden nach höchsten Standards gefertigt und sind langlebig und robust. Darüber hinaus sind sie stilvoll und passen perfekt in jedes moderne Badezimmer.Wir sind uns sicher, dass Sie bei uns die perfekte Dusche für Ihr Zuhause finden werden. Sollten Sie Fragen haben, stehen wir Ihnen jederzeit zur Verfügung. Kontaktieren Sie uns einfach über unser Kontaktformular oder rufen Sie uns an. Wir freuen uns darauf, Ihnen bei der Gestaltung Ihres Traumbadezimmers zu helfen."
+                    },
+                    {
+                        "title": "Duschwannen",
+                        "text": "Entdecke die Vielfalt an <a href=\"/kategorie/duschwannen/\" title=\"Duschwannen\">Duschwannen</a> auf Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Materialien, um jedem Bedarf gerecht zu werden. Ob du eine Eckdusche, eine runde Duschwanne oder eine Walk-in-Dusche bevorzugst, wir haben das Richtige für dich. Unsere Duschwannen sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Überzeuge dich selbst und entdecke jetzt unsere Duschwannen-Kollektion."
+                    },
+                    {
+                        "title": "Duschkabinen",
+                        "text": "Erlebe das ultimative Duscherlebnis mit einer Duschkabine von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Ob du eine Eckdusche, eine runde Duschkabine oder eine Walk-in-Dusche bevorzugst, wir haben das Richtige für dich. Unsere <a href=\"/kategorie/duschkabinen/\" title=\"Duschkabinen\">Duschkabinen</a> sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Überzeuge dich selbst und entdecke jetzt unsere Duschkabinen-Kollektion."
+                    },
+                    {
+                        "title": "Eckduschen",
+                        "text": "Optimiere deinen Duschbereich mit einer Eckdusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/eckduschen/\" title=\"Eckduschen\">Eckduschen</a> sind aus hochwertigen Materialien hergestellt und garantieren eine lange Haltbarkeit. Spare Platz in deinem Bad und nutze die Ecken optimal aus. Überzeuge dich selbst und entdecke jetzt unsere Eckduschen-Kollektion."
+                    },
+                    {
+                        "title": "Duschtüren",
+                        "text": "Erlebe die perfekte Duschlösung mit den <a href=\"/kategorie/duschtueren/\" title=\"Duschtüren\">Duschtüren</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschtüren bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschtüren-Kollektion und finde die perfekte Tür für deine Dusche."
+                    },
+                    {
+                        "title": "Walk-in Duschen",
+                        "text": "Erlebe das ultimative Duscherlebnis mit einer Walk-in Dusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/walk-in-duschen/\" title=\"Walk-in Duschen\">Walk-in Duschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Walk-in Duschen-Kollektion und erlebe das Gefühl von Freiheit beim Duschen."
+                    },
+                    {
+                        "title": "Komplettduschen",
+                        "text": "Erneuere dein Badezimmer mit einer Komplettdusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/komplettduschen/\" title=\"Komplettduschen\">Komplettduschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Komplettduschen-Kollektion und verleihe deinem Badezimmer das gewisse Extra."
+                    },
+                    {
+                        "title": "Rundduschen",
+                        "text": "Erlebe das ultimative Duscherlebnis mit einer Runddusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere <a href=\"/kategorie/rundduschen/\" title=\"Rundduschen\">Rundduschen</a> bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Rundduschen-Kollektion und erlebe ein neues Niveau des Duschvergnügens."
+                    },
+                    {
+                        "title": "Duschdichtungen",
+                        "text": "Vermeide undichte Stellen in deiner Dusche mit den <a href=\"/kategorie/duschdichtungen/\" title=\"Duschdichtungen\">Duschdichtungen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Duschdichtungen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschdichtungen-Kollektion und schütze deine Dusche vor undichten Stellen."
+                    },
+                    {
+                        "title": "Duschwände",
+                        "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschwaende/\" title=\"Duschwände\">Duschwände</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschwände bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschwände-Kollektion und verleihe deiner Dusche ein neues Aussehen."
+                    },
+                    {
+                        "title": "Begehbare Duschen",
+                        "text": "Erlebe ein neues Niveau des Duschvergnügens mit einer begehbaren Dusche von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere begehbaren Duschen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere begehbaren Duschen-Kollektion und erlebe die Freiheit beim Duschen."
+                    },
+                    {
+                        "title": "Duschboards",
+                        "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschboards/\" title=\"Duschboards\">Duschboards</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschboards bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschboards-Kollektion und verleihe deiner Dusche das gewisse Extra."
+                    },
+                    {
+                        "title": "Bodengleiche Duschwannen",
+                        "text": "Erneuere dein Badezimmer mit einer bodengleichen Duschwanne von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere bodengleichen Duschwannen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere bodengleichen Duschwannen-Kollektion und verleihe deinem Badezimmer das gewisse Extra."
+                    },
+                    {
+                        "title": "Duschrinnen",
+                        "text": "Optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschrinnen/\" title=\"Duschrinnen\">Duschrinnen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschrinnen bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschrinnen-Kollektion und verleihe deiner Dusche das gewisse Extra."
+                    },
+                    {
+                        "title": "Dusch-Rinnenabläufe",
+                        "text": "Verhindere Überschwemmungen in deiner Dusche mit den <a href=\"/kategorie/dusch-rinnenablaeufe/\" title=\"Dusch-Rinnenabläufe\">Dusch-Rinnenabläufe</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Dusch-Rinnenabläufe bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Dusch-Rinnenabläufe-Kollektion und schütze deine Dusche vor Überschwemmungen."
+                    },
+                    {
+                        "title": "Dusch-Wandabläufe",
+                        "text": "Verhindere Überschwemmungen in deiner Dusche mit den <a href=\"/kategorie/dusch-wandablaeufe/\" title=\"Dusch-Wandabläufe\">Dusch-Wandabläufe</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen und Formen, um jedem Bedarf gerecht zu werden. Unsere Dusch-Wandabläufe bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Dusch-Wandabläufe-Kollektion und schütze deine Dusche vor Überschwemmungen."
+                    },
+                    {
+                        "title": "Zubehör für Duschen",
+                        "text": "Vervollständige dein Duscherlebnis mit dem <a href=\"/kategorie/zubehoer-fuer-duschen/\" title=\"Zubehör für Duschen\">Zubehör für Duschen</a> von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Artikeln, um jedem Bedarf gerecht zu werden. Unser Zubehör für Duschen besteht aus hochwertigen Materialien und garantiert eine lange Haltbarkeit. Entdecke jetzt unser Zubehör für Duschen-Sortiment und verleihe deiner Dusche das gewisse Extra."
+                    },
+                    {
+                        "title": "Duschrückwände",
+                        "text": "Schütze deine Wände vor Feuchtigkeit und optimiere deinen Duschbereich mit den <a href=\"/kategorie/duschrueckwaende/\" title=\"Duschrückwände\">Duschrückwände</a>n von Duschabenteuer.de. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, um jedem Bedarf gerecht zu werden. Unsere Duschrückwände bestehen aus hochwertigen Materialien und garantieren eine lange Haltbarkeit. Entdecke jetzt unsere Duschrückwände-Kollektion und schütze deine Wände vor Feuchtigkeit."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Alles für die perfekte Dusche | Duschabenteuer Shop",
+            "metaDescription": "Alles, was du für ein perfektes Duscherlebnis brauchst, findest du in unserem Duschabenteuer-Shop. Günstige Preise und kurze Lieferzeiten.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Die besten Hersteller für Duschen",
+            "metaDescription": "Hier werden alle Hersteller von Duschen und Duschzubehör mit ihren Produkten vorgestellt. Es werden ausschließlich namhafte Hersteller aufgeführt.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Alles für die perfekte Dusche | Duschabenteuer Shop",
-      "metaDescription": "Alles, was du für ein perfektes Duscherlebnis brauchst, findest du in unserem Duschabenteuer-Shop. Günstige Preise und kurze Lieferzeiten.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Die besten Hersteller für Duschen",
-      "metaDescription": "Hier werden alle Hersteller von Duschen und Duschzubehör mit ihren Produkten vorgestellt. Es werden ausschließlich namhafte Hersteller aufgeführt.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Badezimmer. Top Produkt aus der Kategorie $KATEGORIE. Günstig bestellen.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "9980152",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Badezimmer. Top Produkt aus der Kategorie $KATEGORIE. Günstig bestellen.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm",
-              "text": "<p class=\"justify\">Die Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm ist eine elegante und moderne Lösung für Ihr Badezimmer. Sie vereint Stil und praktische Funktionalität in einem ansprechenden Design. Die Runddusche Elana gehört zur Marke Breuer und ist Teil der Kategorie Rundduschen, die sich durch ihre Rundungen und sanften Linien auszeichnen. Die Produktcodenummer (SKU) dieses Modells lautet 9980152 und die GTIN-13 ist 4007641691662.</p><p class=\"justify\">Die Breuer Runddusche Elana verfügt über eine Aluminiumkonstruktion in Chrom-Effekt und hat Abmessungen von 80 cm Breite, 200 cm Höhe und 80 cm Tiefe. Ein Highlight dieser Serie ist der integrierte Hebe- und Senkmechanismus im Drehholm - er ermöglicht ein leichtes Öffnen und Schließen der Türen sowie eine optimale Dichtigkeit. Die Drehtüren lassen sich sowohl nach innen als auch nach außen öffnen und bieten einen komfortablen Einstieg von 96 cm. Die 6mm dicken Klarglasscheiben sorgen für eine hervorragende Stabilität und geben Ihrem Badezimmer ein stilvolles Aussehen.</p><p class=\"justify\">Die Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm hat bereits viele positive Bewertungen erhalten und verfügt über eine 5-Sterne-Bewertung. Die Kriterien, aus denen sich diese überzeugende Bewertung ergibt, sind sowohl die hohe Qualität der Materialien und der Verarbeitung als auch die unkomplizierte Montage und die hervorragende Funktionalität.</p><p class=\"justify\">Das ansprechende Design der Breuer Runddusche, die durchdachte Funktionalität und die hohe Qualität machen sie zur idealen Wahl für Ihr Badezimmer. Die Runddusche Elana ist eine hervorragende Ergänzung zu Ihrem Bad und eine großartige Investition in Stil und Komfort, die Ihnen lange Freude bereiten wird.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6666341",
-        "seo": {
-          "texts": [
-            {
-              "title": "Schulte Duschkabine Korfu II Schiebetüren Eckeinstieg Hellgrün 220 cm x 89 cm",
-              "text": "<p class=\"justify\">Die Schulte Duschkabine Korfu II ist die perfekte Ergänzung für Ihr Badezimmer. Mit ihrer modernen und eleganten Ausführung in Hellgrün, bietet sie ein wunderbares Duscherlebnis in einer Größe von 220 cm x 89 cm. Die Duschkabine ist aus robustem Sicherheitsglas gefertigt und verfügt über stilvolle Schiebetüren für einen bequemen Eckeinstieg. Darüber hinaus ist die Schulte Duschkabine Korfu II ein wahrer Eyecatcher, der Ihr Badezimmer in eine echte Wellness-Oase verwandelt.</p><p class=\"justify\">Das Komplettduschen-Set enthält alles, was Sie für eine entspannte Dusche benötigen. Die Duschkabine wird mit Duschbecken, integrierter Schürze und Ablauf geliefert. Eine Duschstangengarnitur mit Einhebelmischer gehört ebenfalls zum Lieferumfang. Zusätzlich sind alle Anschlüsse bereits vorinstalliert, sodass das Aufbauen und anschließen ganz einfach ist. Durch das 4 mm starke Sicherheitsglas sind die Rückwände der Duschkabine sowohl robust als auch langlebig, was für hohe Sicherheit und Beständigkeit sorgt.</p><p class=\"justify\">Die Vorderseite der Dusche besteht aus hochwertigem 5 mm starkem Sicherheitsglas in Klar Hell und verfügt über zwei Festelemente sowie zwei Schiebetüren. Dank dieser platzsparenden Schiebetüren eignet sich die Schulte Duschkabine Korfu II auch ideal für kleinere Badezimmer. Das Duschbecken ist aus stabilem Sanitäracryl gefertigt und bietet eine pflegeleichte Oberfläche, die sich leicht mit einem milden Reiniger säubern lässt.</p><p class=\"justify\">Eines der Highlights der Schulte Duschkabine Korfu II ist die einfache Montage. Dank des praktischen Stecksystems lässt sich die Duschkabine schnell und unkompliziert aufbauen und ist sofort betriebsbereit. Mit der Duschkabine Korfu II von Schulte können Sie also schon bald ein entspannendes Wellness-Erlebnis in Ihrem eigenen Badezimmer genießen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2451342",
-        "seo": {
-          "texts": [
-            {
-              "title": "Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm",
-              "text": "<p class=\"justify\">Die Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm ist eine luxuriöse und hochwertige Duschlösung für Ihr Badezimmer. Diese Wellnesskabine von Schulte, einer renommierten Marke in der Branche, verfügt über eine intelligente und stilvolle Kombination aus Schiebetür, Festelement und Seitenwand, die eine bequeme und entspannende Duscherfahrung bietet.</p><p class=\"justify\">Die Rückschutzluken der Wellnesskabine Ibiza sind in einem ansprechenden Hellgrün gehalten und fügen sich perfekt in jedes Badezimmerdesign ein. Die Duschstangengarnitur mit Einhebelmischer sorgt für zusätzlichen Komfort und Kontrolle über die Wassertemperatur und -ströme während der Benutzung. Das Funktionsteil befindet sich auf der linken Seite der Kabine, wodurch mehr Raum und Flexibilität im Badezimmer geschaffen wird.</p><p class=\"justify\">Die Schulte ExpressPlus Wellnesskabine Ibiza lässt sich dank der unkomplizierten Steckmontage innerhalb von nur 20 Minuten aufbauen. Die Duschkabine ist eine ideale Lösung für Ihre Badrenovierung, da sie unschöne Fliesen, Bohrlöcher oder Kalkablagerungen hinter den Rückwänden im Badezimmer versteckt. Eine integrierte Duschwanne mit Schürze und Ablauf trägt zur Funktionalität der Kabine bei.</p><p class=\"justify\">Die Wellnesskabine Ibiza von Schulte ist Teil des ExpressPlus-Sortiments des Herstellers und wird innerhalb von 72 Stunden werktags (Samstage und Feiertage ausgeschlossen) nach Bestelleingang bis 11.00 Uhr, nur innerhalb Deutschlands, schnell und bequem geliefert. Die Lieferung erfolgt bis zur Bordsteinkante, und in Österreich beträgt die Lieferzeit 6-7 Tage.</p><p class=\"justify\">Mit der Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm erhalten Sie eine erstklassige und zuverlässige Duschkabine, die Ihnen ein unübertroffenes Erlebnis sowohl in Bezug auf Design als auch auf Funktionalität bietet und Ihrem Badezimmer Luxus und Eleganz verleiht. Dank der einfachen Montage und dem ansprechenden Design können Sie Entspannung und Wellness im eigenen Badezimmer genießen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Shop",
-    "defaultMetaDescription": "$KATEGORIE: Shoppe die besten Produkte zum besten Preis auf Duschabenteur.de. Wir haben die besten Produkte in der Kategorie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "9980152",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm",
+                            "text": "<p class=\"justify\">Die Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm ist eine elegante und moderne Lösung für Ihr Badezimmer. Sie vereint Stil und praktische Funktionalität in einem ansprechenden Design. Die Runddusche Elana gehört zur Marke Breuer und ist Teil der Kategorie Rundduschen, die sich durch ihre Rundungen und sanften Linien auszeichnen. Die Produktcodenummer (SKU) dieses Modells lautet 9980152 und die GTIN-13 ist 4007641691662.</p><p class=\"justify\">Die Breuer Runddusche Elana verfügt über eine Aluminiumkonstruktion in Chrom-Effekt und hat Abmessungen von 80 cm Breite, 200 cm Höhe und 80 cm Tiefe. Ein Highlight dieser Serie ist der integrierte Hebe- und Senkmechanismus im Drehholm - er ermöglicht ein leichtes Öffnen und Schließen der Türen sowie eine optimale Dichtigkeit. Die Drehtüren lassen sich sowohl nach innen als auch nach außen öffnen und bieten einen komfortablen Einstieg von 96 cm. Die 6mm dicken Klarglasscheiben sorgen für eine hervorragende Stabilität und geben Ihrem Badezimmer ein stilvolles Aussehen.</p><p class=\"justify\">Die Breuer Runddusche Radius 55 Elana 6 Chrom Klarglas 80 x 80 cm hat bereits viele positive Bewertungen erhalten und verfügt über eine 5-Sterne-Bewertung. Die Kriterien, aus denen sich diese überzeugende Bewertung ergibt, sind sowohl die hohe Qualität der Materialien und der Verarbeitung als auch die unkomplizierte Montage und die hervorragende Funktionalität.</p><p class=\"justify\">Das ansprechende Design der Breuer Runddusche, die durchdachte Funktionalität und die hohe Qualität machen sie zur idealen Wahl für Ihr Badezimmer. Die Runddusche Elana ist eine hervorragende Ergänzung zu Ihrem Bad und eine großartige Investition in Stil und Komfort, die Ihnen lange Freude bereiten wird.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6666341",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Schulte Duschkabine Korfu II Schiebetüren Eckeinstieg Hellgrün 220 cm x 89 cm",
+                            "text": "<p class=\"justify\">Die Schulte Duschkabine Korfu II ist die perfekte Ergänzung für Ihr Badezimmer. Mit ihrer modernen und eleganten Ausführung in Hellgrün, bietet sie ein wunderbares Duscherlebnis in einer Größe von 220 cm x 89 cm. Die Duschkabine ist aus robustem Sicherheitsglas gefertigt und verfügt über stilvolle Schiebetüren für einen bequemen Eckeinstieg. Darüber hinaus ist die Schulte Duschkabine Korfu II ein wahrer Eyecatcher, der Ihr Badezimmer in eine echte Wellness-Oase verwandelt.</p><p class=\"justify\">Das Komplettduschen-Set enthält alles, was Sie für eine entspannte Dusche benötigen. Die Duschkabine wird mit Duschbecken, integrierter Schürze und Ablauf geliefert. Eine Duschstangengarnitur mit Einhebelmischer gehört ebenfalls zum Lieferumfang. Zusätzlich sind alle Anschlüsse bereits vorinstalliert, sodass das Aufbauen und anschließen ganz einfach ist. Durch das 4 mm starke Sicherheitsglas sind die Rückwände der Duschkabine sowohl robust als auch langlebig, was für hohe Sicherheit und Beständigkeit sorgt.</p><p class=\"justify\">Die Vorderseite der Dusche besteht aus hochwertigem 5 mm starkem Sicherheitsglas in Klar Hell und verfügt über zwei Festelemente sowie zwei Schiebetüren. Dank dieser platzsparenden Schiebetüren eignet sich die Schulte Duschkabine Korfu II auch ideal für kleinere Badezimmer. Das Duschbecken ist aus stabilem Sanitäracryl gefertigt und bietet eine pflegeleichte Oberfläche, die sich leicht mit einem milden Reiniger säubern lässt.</p><p class=\"justify\">Eines der Highlights der Schulte Duschkabine Korfu II ist die einfache Montage. Dank des praktischen Stecksystems lässt sich die Duschkabine schnell und unkompliziert aufbauen und ist sofort betriebsbereit. Mit der Duschkabine Korfu II von Schulte können Sie also schon bald ein entspannendes Wellness-Erlebnis in Ihrem eigenen Badezimmer genießen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2451342",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm",
+                            "text": "<p class=\"justify\">Die Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm ist eine luxuriöse und hochwertige Duschlösung für Ihr Badezimmer. Diese Wellnesskabine von Schulte, einer renommierten Marke in der Branche, verfügt über eine intelligente und stilvolle Kombination aus Schiebetür, Festelement und Seitenwand, die eine bequeme und entspannende Duscherfahrung bietet.</p><p class=\"justify\">Die Rückschutzluken der Wellnesskabine Ibiza sind in einem ansprechenden Hellgrün gehalten und fügen sich perfekt in jedes Badezimmerdesign ein. Die Duschstangengarnitur mit Einhebelmischer sorgt für zusätzlichen Komfort und Kontrolle über die Wassertemperatur und -ströme während der Benutzung. Das Funktionsteil befindet sich auf der linken Seite der Kabine, wodurch mehr Raum und Flexibilität im Badezimmer geschaffen wird.</p><p class=\"justify\">Die Schulte ExpressPlus Wellnesskabine Ibiza lässt sich dank der unkomplizierten Steckmontage innerhalb von nur 20 Minuten aufbauen. Die Duschkabine ist eine ideale Lösung für Ihre Badrenovierung, da sie unschöne Fliesen, Bohrlöcher oder Kalkablagerungen hinter den Rückwänden im Badezimmer versteckt. Eine integrierte Duschwanne mit Schürze und Ablauf trägt zur Funktionalität der Kabine bei.</p><p class=\"justify\">Die Wellnesskabine Ibiza von Schulte ist Teil des ExpressPlus-Sortiments des Herstellers und wird innerhalb von 72 Stunden werktags (Samstage und Feiertage ausgeschlossen) nach Bestelleingang bis 11.00 Uhr, nur innerhalb Deutschlands, schnell und bequem geliefert. Die Lieferung erfolgt bis zur Bordsteinkante, und in Österreich beträgt die Lieferzeit 6-7 Tage.</p><p class=\"justify\">Mit der Schulte ExpressPlus Wellnesskabine Ibiza Funktionsteil links 120x90x204cm erhalten Sie eine erstklassige und zuverlässige Duschkabine, die Ihnen ein unübertroffenes Erlebnis sowohl in Bezug auf Design als auch auf Funktionalität bietet und Ihrem Badezimmer Luxus und Eleganz verleiht. Dank der einfachen Montage und dem ansprechenden Design können Sie Entspannung und Wellness im eigenen Badezimmer genießen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "$KATEGORIE: Shoppe die besten Produkte zum besten Preis auf Duschabenteur.de. Wir haben die besten Produkte in der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Duschabenteuer.de",
+        "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Duschen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Duschen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Duschen Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Duschabenteuer.de",
-    "defaultMetaDescription": "Duschen von $HERSTELLER - hochwertige Duschen für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Duschkabinen, Duschwannen und Duscharmaturen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Duschen",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Duschen Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Duschen Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
